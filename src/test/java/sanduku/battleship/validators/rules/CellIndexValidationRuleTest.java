@@ -55,6 +55,6 @@ public class CellIndexValidationRuleTest {
         cellIndexValidationRule.validate();
 
         //Then
-        //BattleFieldException exception must be thrown
+        //BattleFieldException exception must be thrown.
     }
 }
