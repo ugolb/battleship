@@ -1,4 +1,4 @@
-package sanduku.battleship;
+package com.battleship;
 
 public class GeneralTest {
 

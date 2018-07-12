@@ -1,4 +1,4 @@
-package sanduku.battleship.dtos;
+package com.battleship.dtos;
 
 
 public class BattleshipFieldDto {

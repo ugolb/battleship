@@ -1,4 +1,4 @@
-package sanduku.battleship.validators;
+package com.battleship.validators;
 
 public class BattleFieldCellValidator {
 

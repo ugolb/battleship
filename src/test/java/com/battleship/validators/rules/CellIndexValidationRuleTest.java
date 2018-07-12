@@ -1,8 +1,8 @@
-package sanduku.battleship.validators.rules;
+package com.battleship.validators.rules;
 
 import org.junit.Test;
-import sanduku.battleship.exceptions.BattleFieldException;
-import sanduku.battleship.helper.TestDataGenerator;
+import com.battleship.exceptions.BattleFieldException;
+import com.battleship.helper.TestDataGenerator;
 
 public class CellIndexValidationRuleTest {
 

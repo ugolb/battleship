@@ -1,7 +1,7 @@
-package sanduku.battleship.helper;
+package com.battleship.helper;
 
-import sanduku.battleship.dtos.BattleFiledCell;
-import sanduku.battleship.dtos.CellState;
+import com.battleship.dtos.BattleFiledCell;
+import com.battleship.dtos.CellState;
 
 public final class TestDataGenerator {
     private final static int VALID_MIN_COORDINATE = 0;

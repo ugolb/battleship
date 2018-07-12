@@ -1,8 +1,8 @@
-package sanduku.battleship.validators;
+package com.battleship.validators.rules;
 
-import sanduku.battleship.exceptions.BattleFieldException;
+import com.battleship.exceptions.BattleFieldException;
 
-public interface Validator {
+public interface ValidationRule {
 
     /**
      * General interface method which runs applies validation rules

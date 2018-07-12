@@ -1,7 +1,7 @@
-package sanduku.battleship.validators.rules;
+package com.battleship.validators.rules;
 
-import sanduku.battleship.dtos.BattleFiledCell;
-import sanduku.battleship.exceptions.BattleFieldException;
+import com.battleship.dtos.BattleFiledCell;
+import com.battleship.exceptions.BattleFieldException;
 
 public class CellIndexValidationRule implements ValidationRule {
     private static final int MAX_INDEX = 9;

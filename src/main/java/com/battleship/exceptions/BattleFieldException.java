@@ -1,4 +1,4 @@
-package sanduku.battleship.exceptions;
+package com.battleship.exceptions;
 
 public class BattleFieldException extends RuntimeException {
 
